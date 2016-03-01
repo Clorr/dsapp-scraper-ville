@@ -1,0 +1,16 @@
+{
+  "name": "scrapper",
+  "version": "0.0.1",
+  "description": "Scrapper pour recuperer les donnees complementaires au projet Velov",
+  "main": "scrap.js",
+  "dependencies": {
+    "geocoder": "^0.2.2",
+    "cheerio": "^0.20.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node scrap.js"
+  },
+  "author": "Colin LORRAIN",
+  "license": "ISC"
+}
