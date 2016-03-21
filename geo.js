@@ -1,5 +1,5 @@
 var geocoder = require("geocoder")
-geocoder.selectProvider('google',{key:"AIzaSyAnAkzqW-qINk52W8otNv4GQTkCMtu_93E"});
+geocoder.selectProvider('google',{key:"-------------"});
 
 var cache = {};
 
